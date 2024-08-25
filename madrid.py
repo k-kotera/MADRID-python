@@ -11,7 +11,7 @@ def MADRID(T: np.ndarray, train_test_split: int,
            subseqence_range = "Auto"):
     """
     MADRID algorithm, discovering time series discords of All Lengths.
-    
+     
     Parameters
     ----------
     T : np.array
